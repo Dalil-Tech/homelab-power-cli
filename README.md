@@ -40,6 +40,10 @@ If you want those, I keep a web version with idle-vs-load profiles, device prese
 python -m unittest -v
 ```
 
+## Contributing
+
+This mirrors the web calculator at dalil-tech.com and is not open to outside contributions. The web version is the maintained one.
+
 ## License
 
 MIT. Do what you want with it.
